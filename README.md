@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erokhinvi&show_icons=true&locale=en" alt="erokhinvi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erokhinvi&" alt="erokhinvi" /></p>
+
+
+![image](https://user-images.githubusercontent.com/110631416/216348122-a741f2de-0ff5-4aa5-9f75-eb6355dc4ef2.png)
